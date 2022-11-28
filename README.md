@@ -12,8 +12,9 @@ En el directorio [Integraciones](https://github.com/eider404/Integracion-con-API
 En el directorio [API](https://github.com/eider404/Integracion-con-API-s/tree/main/API "API") muestra el codigo usado para la creacion de la "API productos" del cual esta ejecutandose en un contenedor de docker con un servidor node y conectada a una DB mysql.
 
 #### Imagenes de google analytics:
-[![img1](https://postimg.cc/WD9PpDPb "img1")](https://postimg.cc/WD9PpDPb "img1")
-[![img2](https://postimg.cc/v43Kfp20 "img2")](https://postimg.cc/v43Kfp20 "img2")
+[![img1](https://i.postimg.cc/bJPYTbCb/Captura-desde-2022-11-27-14-09-29.png "img1")](https://i.postimg.cc/bJPYTbCb/Captura-desde-2022-11-27-14-09-29.png "img1")
+------------
+[![img2](https://i.postimg.cc/PqjksHWn/Captura-desde-2022-11-27-14-10-05.png "img2")](https://i.postimg.cc/PqjksHWn/Captura-desde-2022-11-27-14-10-05.png "img2")
 
 
 ## Integrantes

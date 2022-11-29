@@ -2,7 +2,7 @@
 
 ## Partes:
 #### 1. Integraciones: [VER PAGINA](https://tienda-online.fly.dev/ "CLICK")
-En el directorio [Integraciones](https://github.com/eider404/Integracion-con-API-s/tree/main/Integracion "Integraciones") es una seccion que muestra la UI de la pagina, del cual es una pagina estatica que cuenta con las siguientes integraciones:
+En el directorio [Integraciones](https://github.com/eider404/Integracion-con-API-s/tree/main/Integraciones "Integraciones") es una seccion que muestra la UI de la pagina, del cual es una pagina estatica que cuenta con las siguientes integraciones:
 - Google Maps
 - Google Analytics
 - Facebook

@@ -56,7 +56,14 @@ header nav a{
 }
 
 header nav a:hover{
-    background: rgb(0, 68, 255);
+    background: rgba(12, 111, 224, 0.8);
+    color:aliceblue;
+}
+
+.active{
+    background: rgba(9, 91, 184, 0.8);
+    color:aliceblue;
+    text-decoration: underline;
 }
 
 h2{
@@ -102,6 +109,7 @@ body.sticky-header header h1{
 	width: 100%;
 }
 
+
 .btn-var {
 	padding: .375rem .75rem;
 	border-radius: .25rem;
@@ -129,3 +137,5 @@ body.sticky-header header h1{
   .row{
     text-align: left;
   }
+
+

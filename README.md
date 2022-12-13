@@ -8,7 +8,7 @@ En el directorio [Integraciones](https://github.com/eider404/Integracion-con-API
 - Facebook
 - El consumo de "API productos"
 
-#### 2. API productos: [VER API](https://products-api.fly.dev/ "CLICK") | [DOCKER-HUB](https://hub.docker.com/repository/docker/eiderpool/api-product "docker-hub")
+#### 2. API productos: [VER API](https://productos-api.fly.dev/ "CLICK") | [DOCKER-HUB](https://hub.docker.com/repository/docker/eiderpool/api-product "docker-hub")
 En el directorio [API](https://github.com/eider404/Integracion-con-API-s/tree/main/API "API") muestra el codigo usado para la creacion de la "API productos" del cual esta ejecutandose en un contenedor de docker con un servidor node y conectada a una DB mysql.
 
 #### Imagenes de google analytics:
